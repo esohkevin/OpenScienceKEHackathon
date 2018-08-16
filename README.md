@@ -16,7 +16,7 @@ We are in the process of developing ideas for the hackathon. Our initial thought
 
 The first project can be handled by two groups: a literature search and data mining. 
 
-Reach out ff can help out in any of the projects.
+Reach out if you can help out in any of the projects.
 
 ### What kind of projects are we interested in?
 We looking for projects that:
