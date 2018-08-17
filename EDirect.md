@@ -1,7 +1,7 @@
 Retrieving Articles from NCBI's PubMed Using EDirect
 ===
 
-EDirect is NCBI's commandline Entrez retrieval tool. It is used to retrieve data from a variety of NCBI database, including literature mining from PubMed.
+EDirect is NCBI's command line Entrez retrieval tool. It is used to retrieve data from a variety of NCBI database, including literature mining from PubMed.
 
 [Insiders Guide to Accessing NLM Data: EDirect Overview](https://dataguide.nlm.nih.gov/edirect/overview.html)
 
