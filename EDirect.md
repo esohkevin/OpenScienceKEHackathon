@@ -47,7 +47,7 @@ Example PubMed Search
 ---
 
 ```
-$ esearch -db pubmed -query "Open AND Science[Title]" -datetype PDAT -mindate 2010 - maxdate 2018 | \
+$ esearch -db pubmed -query "Open AND Science[Title]" -datetype PDAT -mindate 2010 -maxdate 2018 | \
   efetch -format xml | \
   xtract -pattern PubmedArticle -element MedlineCitation/PMID > pmids.txt
 ```
