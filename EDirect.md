@@ -1,8 +1,11 @@
 #Retrieving Papers from NCBI's PubMed Using EDirect
+
 EDirect is NCBI's commandline Entrez retrieval tool. It is used to retrieve data from a variety of NCBI database, including literature mining from PubMed.
+
 [Insiders Guide to Accessing NLM Data: EDirect Overview](https://dataguide.nlm.nih.gov/edirect/overview.html)
 
 ##Installing EDirect
+
 Run the code
 ```
 $ cd ~
@@ -42,6 +45,6 @@ $ esearch -db pubmed -query "Open AND Science[Title]" -datetype PDAT -mindate 20
 This retrieves the PubMed ID of articles titled "Open Science" from PubMed published between 2010 and 2018
 
 ###More on EDirect commands can be found on
-###[Entrez Direct: E-utilities on the UNIX Command Line](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
-###[NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook)
+[Entrez Direct: E-utilities on the UNIX Command Line](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
+[NCBI-Hackathons/EDirectCookbook](https://github.com/NCBI-Hackathons/EDirectCookbook)
 
